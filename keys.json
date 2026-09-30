@@ -6,8 +6,8 @@
       "users": 1,
       "channels": 4,
       "expires": "2026-10-31",
-      "user_tokens": ["token1"],
-      "ad_channels": ["1234567890", "0987654321"]
+      "user_tokens": [],
+      "ad_channels": []
     }
   ]
 }
