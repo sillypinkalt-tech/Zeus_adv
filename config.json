@@ -1,0 +1,24 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN",
+  "database": {
+    "type": "json",
+    "file": "keys.json"
+  },
+  "plans": {
+    "V1": {
+      "users": 1,
+      "channels": 4,
+      "duration_days": 30
+    },
+    "V2": {
+      "users": 2,
+      "channels": 8,
+      "duration_days": 30
+    },
+    "V3": {
+      "users": 5,
+      "channels": 25,
+      "duration_days": 30
+    }
+  }
+}
